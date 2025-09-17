@@ -69,4 +69,5 @@ This repository contains a Python-based desktop application for managing users, 
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liljapatrik&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liljapatrik)
+
