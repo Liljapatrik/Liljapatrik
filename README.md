@@ -53,6 +53,14 @@ A cinema application backend built with **Java** and **Spring Boot**, showcasing
 - Completed as a **3-day exam project**, demonstrating the ability to **deliver a working prototype under time pressure**.
 - Most proud of how the **ticket booking system** was designed and implemented to handle all necessary workflows, allowing users to operate the system either as **staff** managing bookings or as an **admin** overseeing the cinema operations.
 
+[Photo App](https://github.com/Liljapatrik/photo_app.git)
+This repository contains a Python-based desktop application for managing users, photos, comments, likes, hashtags, and tags. The application is built using Tkinter for the graphical user interface and MySQL as the relational database backend.
+- Designed and implemented the backend logic, including data validation, error handling, and the connection between GUI and database.
+- Built a **desktop GUI with Tkinter**, allowing users to add, edit and delete photos, comments, likes, hashtags and tags.
+- Coordinated **full-stack development**, linking GUI components to business logic and database operations
+- Most proud of: managing relationships between enitities, and connecting GUI seamlessly to the buisness logic, enabling a fully functional desktop application. 
+
+
 ---
 
 ## Contact
