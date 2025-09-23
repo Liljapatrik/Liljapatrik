@@ -21,9 +21,12 @@
 **AI & Machine Learning**
 - Python (AI & ML libraries, projects in progress)
 
-**DevOps/Cloud**  
-- Git, GitHub
+**Cloud**  
 - Azure
+
+**Version Control**
+- Git
+- GitHub
 
 **Other Tools**
 - Swagger
